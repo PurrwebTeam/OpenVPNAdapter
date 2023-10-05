@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.homepage = "https://github.com/ss-abramchuk/OpenVPNAdapter"
 
-
+  s.static_framework = true
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.license = "AGPLv3"
